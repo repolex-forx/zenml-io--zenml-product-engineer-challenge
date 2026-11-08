@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "zenml-product-engineer-challenge",
+  "versions": [
+    {
+      "commit": "ae6d7799b7f644eb44b52ca19cf162c2eeb66111",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:28:34.363118+00:00"
+    }
+  ]
+}
