@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "zenml-io",
+  "repo": "zenml-product-engineer-challenge",
+  "versions": [
+    {
+      "commit": "ae6d7799b7f644eb44b52ca19cf162c2eeb66111",
+      "parsed_at": "2026-11-08T05:26:44.391658+00:00",
+      "filetree": "filetree/ae6d7799b7f644eb44b52ca19cf162c2eeb66111.nq.gz",
+      "blobs": [
+        "blob/7d9bee287e074355982dbdd398c39445f97d5381.nq.gz",
+        "blob/1986be461ec06d87e5e1124ad2b484444552246b.nq.gz",
+        "blob/d34cbe47fe15c560c04b7d900cd8cdb8581107b1.nq.gz",
+        "blob/24aa676a3bbf26135014d1543fa032b830a29164.nq.gz",
+        "blob/4f25649c4202e1c606b1082cff719ba552017234.nq.gz",
+        "blob/55da4dcf0704977f926ee14de100a9a293cd2f49.nq.gz",
+        "blob/0240683541cde3b021bd09e68885698ef87467c4.nq.gz",
+        "blob/a61615007b58d41fb65d1ff6dfa6a89472069b8f.nq.gz",
+        "blob/ae345f50a1b35752cf9b032d2571b05eed07fa2f.nq.gz",
+        "blob/cb1337bfd557b2fda9bf518e3dff3356e9f40e7f.nq.gz",
+        "blob/b819d083d9c0a0af06ffb61c64d426e0fa31a473.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
