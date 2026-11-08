@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/zenml-product-engineer-challenge/commit/ae6d7799b7f644eb44b52ca19cf162c2eeb66111",
       "git:hexsha": "ae6d7799b7f644eb44b52ca19cf162c2eeb66111",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
